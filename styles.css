@@ -1,0 +1,18 @@
+.swal2-popup {
+    border-radius: 1.25rem !important;
+    font-size: 1.2rem !important;
+}
+.btn-close-class {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    font-size: 1.5rem;
+}
+.main{
+    background-color: black;
+}
+.pd{
+    color: whitesmoke;
+}
